@@ -1,70 +1,105 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=SONDETH%20BOUNPHANITH&fontSize=60&fontAlignY=35" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Mobile+App+Builder+(Flutter+%2F+React+Native);Next.js+%7C+React+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+Docker;Always+Learning+%26+Building" />
+</div>
+
+---
+
+## 👨‍💻 **About Me**
+
+Hi! I'm **Sondeth**, a passionate developer who loves creating modern, scalable apps — from **mobile apps** to **full-stack web systems**.
+
+🔧 I enjoy building real-world systems such as:  
+- Medical tourism platforms  
+- Real-time vehicle tracking (GPS + WebSocket)  
+- Booking & review systems  
+- Authentication-based apps (NextAuth, JWT)  
+- Cloud-integrated apps (Cloudinary, AWS)
+
+✨ I love exploring new tools and turning ideas into real products.
+
+### 🔥 Currently Working On
+- **Medical Tourism Platform for Foreigners in Thailand**  
+  → Full-stack system with booking flows, service approval, tourism packages, and more
+
+### 🌱 Currently Learning  
+- Docker (for production deployment)  
+- Cloud automation  
+- Advanced Next.js patterns  
+- Microservices with Node & Python
+
+### 💬 Ask Me About  
+**React • Next.js • Node.js • Prisma • Flutter • API Design • System Architecture**
+
+---
+
+## 🛠️ **Languages & Tools**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-272F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SONDETH-BOUNPHANITH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONDETH-BOUNPHANITH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
 </div>
 
-## 👨‍💻 About Me
-
-I'm a passionate developer focused on building scalable web applications.
-
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust and WebAssembly**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, and System Design**
-- 📫 How to reach me: **your.email@example.com**
-
----
-
-## 🛠️ Languages & Tools
-
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SONDETH-BOUNPHANITH&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 **Highlighted Projects**
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **Medical Tourism Platform** | A full-stack system handling medical bookings, hotel & tourism packages, interpreter flow, and step-by-step staff approvals. | `Next.js` `Prisma` `Node` `PostgreSQL` |
+| **Real-Time GPS Tracking System** | Python FastAPI backend with MongoDB + WebSocket to track vehicles live. | `FastAPI` `MongoDB` `WebSockets` |
+| **Student Borrowing System** | Flutter app that fetches book & user data, handles login, token storage, and room details. | `Flutter` `REST API` |
+| **Multi-Step Review Modal** | Dynamic review modal for hospital/hotel/interpreter with step control and transitions. | `Next.js` `React` |
+
+---
+
+## 🌐 **Connect With Me**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project A](https://github.com/username/project-a)** | A brief description of what this project does and the problem it solves. | `React` `Node` `MongoDB` |
-| **[Project B](https://github.com/username/project-b)** | Another cool project. Mention if it's live or deployed. | `Python` `FastAPI` `Docker` |
-| **[Project C](https://github.com/username/project-c)** | An open source tool I built for developers. | `Go` `CLI` |
-
----
-
-## 🤝 Connect with Me
-
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
 </div>
