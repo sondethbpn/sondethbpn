@@ -69,7 +69,7 @@ Hi! I'm **Sondeth**, a passionate developer who loves creating modern, scalable 
 
 <div align="center">
 
-<a href="www.linkedin.com/in/sondeth-bounphanith-561146387">
+<a href="https://linkedin.com/in/sondeth-bounphanith-561146387">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
