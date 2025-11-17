@@ -55,20 +55,6 @@ Hi! I'm **Sondeth**, a passionate developer who loves creating modern, scalable 
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SONDETH-BOUNPHANITH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONDETH-BOUNPHANITH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SONDETH-BOUNPHANITH&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
 ## 🚀 **Highlighted Projects**
 
 | Project | Description | Stack |
@@ -76,7 +62,6 @@ Hi! I'm **Sondeth**, a passionate developer who loves creating modern, scalable 
 | **Medical Tourism Platform** | A full-stack system handling medical bookings, hotel & tourism packages, interpreter flow, and step-by-step staff approvals. | `Next.js` `Prisma` `Node` `PostgreSQL` |
 | **Real-Time GPS Tracking System** | Python FastAPI backend with MongoDB + WebSocket to track vehicles live. | `FastAPI` `MongoDB` `WebSockets` |
 | **Student Borrowing System** | Flutter app that fetches book & user data, handles login, token storage, and room details. | `Flutter` `REST API` |
-| **Multi-Step Review Modal** | Dynamic review modal for hospital/hotel/interpreter with step control and transitions. | `Next.js` `React` |
 
 ---
 
@@ -85,14 +70,14 @@ Hi! I'm **Sondeth**, a passionate developer who loves creating modern, scalable 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="www.linkedin.com/in/sondeth-bounphanith-561146387" />
 </a>
 
 <a href="https://YOUR-PORTFOLIO.com">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sondeth.bpn@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
