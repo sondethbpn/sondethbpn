@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=SONDETH%20BOUNPHANITH&fontSize=60&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Mobile+App+Builder+(Flutter+%2F+React+Native);Next.js+%7C+React+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+Docker;Always+Learning+%26+Building" />
 </div>
